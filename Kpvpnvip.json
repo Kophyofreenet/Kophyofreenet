@@ -2,62 +2,44 @@
 {
    "files": [    
 
-
 {
-         "name": "Dtac-Nopro-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/Dtac_Nopro_Vip_1.ovpn"
-      },
-
-{
-         "name": "Dtac-Nopro-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/Dtac_Nopro_Vip_2.ovpn"
-      },
-
-{
-         "name": "DTAC-90Day-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/Dtac_90day_Vip_1.ovpn"
-      },
-
-{
-         "name": "DTAC-90Day-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/Dtac_90day_Vip_2.ovpn"
-      },
-
-{
-         "name": "Dtac-Line-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/Dtac_Line_Vip_1.ovpn"
-      },
-
-{
-         "name": "Dtac-Line-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/Dtac_Line_Vip_2.ovpn"
-      },
-
-{
-         "name": "Dtac-Happy-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/Dtac_Happy_Vip_1.ovpn"
-      },
-
-{
-         "name": "Dtac-Happy-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/Dtac_Happy_Vip_2.ovpn"
+         "name": "Dtac-90Day-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/DTAC-90DAY-VIP.ovpn"
       },
 
 
 {
-         "name": "True-Nopro-01-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/True_Nopro_Vip_1.ovpn"
+         "name": "Dtac-Happywork-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/DTAC-HAPPYWORK-VIP.ovpn"
       },
 
+
 {
-         "name": "True-Nopro-02-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/True_Nopro_Vip_2.ovpn"
+         "name": "Dtac-Line12app-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/DTAC-LINE12app-VIP.ovpn"
+      },
+
+
+{
+         "name": "Dtac-Nopro-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/DTAC-NOPRO-VIP.ovpn"
+      },
+
+
+{
+         "name": "True-Nopro-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Kophyofreenet/main/TRUE-NOPRO-VIP.ovpn"
       }
 
 
    ],
-"message":"🔥DTAC Nopro🔥DTAC 90Day🔥DTAC Line12app🔥DTAC Happyword🔥TRUE Nopro🔥\n\n•Gameသမားများအတွက်VIPအကောင့် တစ်လ40ဘတ်ြဖင့်လာရောက်ဝယ်ယူနိုင်ပါတယ်ဗျာ့😊\n•Update 06-03-2022\n\n•Config by Myo Min Tun",
+"message":"
+🔥DTAC Nopro🔥
+🔥DTAC 90Day🔥
+🔥DTAC Line12app🔥
+🔥DTAC Happyword🔥
+🔥TRUE Nopro🔥\n\n•VIPအကောင့် တစ်လ40ဘတ်ြဖင့်လာရောက်ဝယ်ယူနိုင်ပါတယ်ဗျာ့😊\n•Update 05-05-2022\n\n•Config by Myo Min Tun",
 "title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်ရန် အင်တာနက်လိုပါသည်" ,
-   "version":5
+   "version":6
 }
 
